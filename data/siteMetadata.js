@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'flyntcat@live.cn',
   github: 'https://github.com/donglua',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: '',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: '',
