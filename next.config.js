@@ -55,7 +55,7 @@ const securityHeaders = [
 module.exports = withBundleAnalyzer({
   images: {
     loader: 'imgix',
-    path: 'https://donglua.pages.dev/static/images',
+    path: 'https://donglua.pages.dev/',
   },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
