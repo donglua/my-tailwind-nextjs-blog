@@ -13,8 +13,8 @@ const siteMetadata = {
   email: 'flyntcat@live.cn',
   github: 'https://github.com/donglua',
   twitter: '',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  facebook: '',
+  youtube: '',
   linkedin: '',
   locale: 'zh-CN',
   analytics: {
