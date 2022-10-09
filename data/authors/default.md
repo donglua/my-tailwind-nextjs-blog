@@ -1,6 +1,6 @@
 ---
 name: Donglua
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.webp
 occupation: Professor of Atmospheric Science
 email: flyntcat@live.cn
 github: https://github.com/donglua

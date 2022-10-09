@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://donglua.pages.dev',
   siteRepo: 'https://github.com/donglua/my-tailwind-nextjs-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.webp',
   socialBanner: '/static/images/twitter-card.png',
   email: 'flyntcat@live.cn',
   github: 'https://github.com/donglua',
